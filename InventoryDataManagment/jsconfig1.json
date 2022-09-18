@@ -1,0 +1,39 @@
+{
+  "TypeOfRice": [
+
+    {
+      "Name": "Rice1",
+      "weight": 10,
+      "price": 100
+    },
+    {
+      "Name": "Rice2",
+      "weight": 5,
+      "price": 150
+    }
+  ],
+  "TypeOfPluse": [
+    {
+      "Name": "Pluse1",
+      "weight": 5,
+      "price": 200
+    },
+    {
+      "Name": "pluse2",
+      "weight": 15,
+      "price": 250
+    }
+  ],
+  "TypeOfWheat": [
+    {
+      "Name": "Wheat1",
+      "weight": 20,
+      "price": 300
+    },
+    {
+      "name": "Wheat2",
+      "weight": 25,
+      "price": 400
+    }
+  ]
+} 
